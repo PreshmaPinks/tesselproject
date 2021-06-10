@@ -1,0 +1,13 @@
+
+.headerWelcome{
+    text-align: center;
+    margin: 0;
+    padding: 5rem;
+}
+
+.welcomeContainer{
+    background: linear-gradient(to bottom right, #003399 -2%, #3399ff 97%);
+    height: 100vh;
+    color: honeydew;
+    
+}

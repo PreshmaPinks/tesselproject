@@ -1,0 +1,37 @@
+.informationHeader{
+    text-align: center;
+    font-size: 1.8 rem;
+    font-weight: bold;
+    padding: 2rem;
+    color: white;
+}
+
+.informationContainer{
+    text-align: center;
+    margin: 0 5rem 1rem 5rem;
+    border: 0.2 rem solid black;
+}
+
+.Home{
+    background: linear-gradient(to bottom right, #003399 -2%, #3399ff 97%);
+    height: 100vh;
+}
+
+.infoButton{
+    background-color: rgb(62, 187, 236);
+    color: white;
+    border: none;
+    border-radius: 0.7rem;
+    width: 10.9rem;
+    font-size: 0.7rem;
+    height: 1.6rem;
+    font-weight: bold;
+    margin: 1rem;
+    padding: 0.2rem;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: rgb(177, 176, 176);
+    text-align: center;
+    font-size: 0.7rem;
+  }

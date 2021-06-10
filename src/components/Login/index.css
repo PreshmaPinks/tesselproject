@@ -1,0 +1,86 @@
+.home{
+    background: linear-gradient(to bottom right, #003399 -2%, #3399ff 97%);
+    height: 100vh; 
+}
+
+.header{
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: white;
+    text-align: left;
+    margin: 0rem 3rem 3rem 3rem;
+}
+
+.aboutUsHeader{
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: white;
+    text-align: center;
+}
+
+.LoginContainer{
+    text-align: center;
+}
+
+.aboutUs{
+    margin: 0rem 5rem 2rem 5rem;
+    padding: 1rem 8rem 1rem 8rem;
+    color: white;
+}
+
+.login{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 0 0rem 1rem 0;
+}
+
+.loginPlace{
+    text-align: center;  
+}
+
+.LoginContainer{
+   
+    width: 15rem;
+    height: 9rem;
+}
+
+.loginParent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginButton{
+    background-color: rgb(62, 187, 236);
+    color: white;
+    border: none;
+    border-radius: 0.7rem;
+    width: 10.9rem;
+    font-size: 0.7rem;
+    height: 1.6rem;
+    font-weight: bold;
+}
+
+.inputPassword{
+    background: transparent;
+    border: none;
+    opacity: 1;
+    border: 1px solid White;
+    padding: 0.2rem;
+    margin: 0.5rem;
+}
+
+.inputUsername{
+    background: transparent;
+    border: none;
+    opacity: 1;
+    border: 1px solid White;
+    padding: 0.2rem;
+}
+
+.rememberCheckBox{
+    font-size: 0.8rem;
+    text-align: left;
+}
